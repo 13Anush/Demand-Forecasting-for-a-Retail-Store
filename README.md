@@ -15,4 +15,4 @@ The model accurately predicted future sales trends, enabling better decision-mak
 ### o Impact: 
 By implementing data-driven demand forecasting, businesses can optimize inventory levels, reduce stockouts, and enhance customer satisfaction.
 
-**GITHUB -**
+**GITHUB -** https://github.com/13Anush/Demand-Forecasting-for-a-Retail-Store
