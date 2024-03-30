@@ -1,2 +1,18 @@
 # Demand-Forecasting-for-a-Retail-Store
-**Demand Forecasting for Retail Store**  Explore my data science internship project focused on demand forecasting for a retail store. Discover predictive analytics techniques to optimize inventory management and enhance business decision-making.
+
+### o Data Exploration:
+I started by exploring the sales data, visualizing sales trends over time to understand patterns and seasonality.
+
+### o Decomposition Analysis: 
+Utilized seasonal decomposition to break down the data into trend, seasonality, and residual components, gaining deeper insights into sales patterns.
+
+### o Model Building: 
+Employed Exponential Smoothing with seasonal components to build a robust forecasting model, leveraging historical sales data.
+
+### o Results: 
+The model accurately predicted future sales trends, enabling better decision-making and resource allocation for inventory management and business planning.
+
+### o Impact: 
+By implementing data-driven demand forecasting, businesses can optimize inventory levels, reduce stockouts, and enhance customer satisfaction.
+
+**GITHUB -**
