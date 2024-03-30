@@ -1,4 +1,4 @@
-# Demand-Forecasting-for-a-Retail-Store
+# Demand Forecasting For a Retail Store
 
 ### o Data Exploration:
 I started by exploring the sales data, visualizing sales trends over time to understand patterns and seasonality.
